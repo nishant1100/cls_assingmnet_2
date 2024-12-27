@@ -20,6 +20,7 @@ class CircleAreaCubitView extends StatelessWidget {
           ],
         ),
         centerTitle: true,
+        backgroundColor: const Color.fromARGB(255, 222, 74, 74), 
       ),
       body: Padding(
         padding: const EdgeInsets.all(16.0),

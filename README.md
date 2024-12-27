@@ -15,7 +15,7 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-![alt text](<cls2 dashboard.png>)
-![alt text](<cls2 area.png>)
-![alt text](<cls2 arithmetic.png>)
-![alt text](<cls2 SI.png>)
+![alt text](<cls dashboard.png>)
+![alt text](<cls area.png>)
+![alt text](<cls arithmetic.png>)
+![alt text](<cls SI.png>)

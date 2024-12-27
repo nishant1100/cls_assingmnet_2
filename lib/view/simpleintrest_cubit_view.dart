@@ -22,6 +22,7 @@ class SimpleInterestCubitView extends StatelessWidget {
           ],
         ),
         centerTitle: true,
+        backgroundColor: const Color.fromARGB(255, 244, 165, 62), 
       ),
       body: Padding(
         padding: const EdgeInsets.all(16.0),
